@@ -1,4 +1,5 @@
 # Draw App
+![Draw App](draw.png)
 
 The Draw App is a web-based application that allows users to create drawings on a digital canvas. This project is built using HTML, CSS, and JavaScript.
 
