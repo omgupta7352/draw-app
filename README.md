@@ -42,7 +42,7 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory:
 
     ```bash
-    cd draw_app
+    cd draw-app
     ```
 
 3. Open `index.html` in your preferred web browser.
