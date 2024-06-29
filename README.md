@@ -21,7 +21,7 @@ The Draw App is a web-based application that allows users to create drawings on 
 
 ## Demo
 
-You can try out the clock live [here](https://omgupta7352.github.io/draw-app/).
+You can try out the Draw App live [here](https://omgupta7352.github.io/draw-app/).
 
 ## Technologies Used
 
